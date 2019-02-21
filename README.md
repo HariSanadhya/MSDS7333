@@ -1,2 +1,2 @@
 # MSDS7333
-Quantifying the World
+This repository contains the assignments submitted for MSDS7333 - Quantifying the world class.
