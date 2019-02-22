@@ -1,20 +1,20 @@
-# MSDS7333
-This repository contains the assignments submitted for MSDS7333 - Quantifying the world class.
+# Quantifying the World - 7 Case Studies
+This repository contains the assignments submitted for Quantifying the world class.
 
 
-## Case Study 2
+## Case Study 2 - Data Imputation in Python (MCAR, MAR and MNAR)
 **Objective:** -Missing Data analysis, imputation and modelling
 
-**Feedback:** - Well done.  Be careful those correlation plots were pretty small,. but mostl;y ancillary to the study.  Good Job with a table summary of results.
+**Feedback:** - Well done.  Be careful those correlation plots were pretty small,. but mostly ancillary to the study.  Good Job with a table summary of results.
 
 
-## Case Study 4
+## Case Study 4 - ARIMA Stock Prices Time Series in Python 
 **Objective:** - For case study 4, we are analyzing the the stock price of a major corporation, Western Union. Our goal is to analyze four-year stock data set for Western Union and come up with the appropriate guess of hyperparameters of ARIMA model to get the most optimal result. ARIMA model once trained can be used to forecast the stock price.
 
 **Feedback:** - well done
 
 
-## Case Study 6
+## Case Study 6 - NLP (TFIDF matrix creation) along with clustering in R
 **Objective:** - In this case study, we need to answer these questions:
 Create a TF IDF matrix from the dataset. Some steps make take several minutes to process in R.
 Do a K-means clustering for 5,10,20 clusters. What do you observe about the information R returns you? What do each of the parameters represent when you run the kmeans() function.
@@ -27,25 +27,25 @@ Conceptually--dbscan vs kmeans was telling you there was basically one giant clu
 Report wise, make sure graphs and figures have captions as titles.  Make sure your report is a narrative (using solid math concepts, but make it a story and less codes with comments).
 
 
-## Case Study 8
+## Case Study 8 - Modeling Age and Runner Time distribution in R
 **Objective:** - The objective of this case study is to answer Question 7 in the chapter 2 of “Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving” (Nolan and Lang). We are required to perform data cleaning process for the women’s race results data, working with any oddities that may be present in the raw data files, and build a data frame that enable us to perform data analysis for optimal results.
 
 **Feedback:** - Very good.  Only issues were make sure graphs have titles and fixed-width font on code in appendix.
 
 
-## Case Study 10
+## Case Study 10 - Spam Classification Optimization in R
 **Objective:** - In this case study, we aim to showcase how to use the R-package rpart (Recursive Partitioning and Regression Trees) to help with email classification as spam or ham. We tweaked with the rpart tunning parameters to fine-tuned and optimize the algorithm in order to improve prediction effectiveness.
 
 **Feedback:** - Very good analysis of the models and the results.  I deducted 2 points for the metrics descriptions being vauge.   Define them explicitly or provide a reference to their definition.  i.e. precision = (TP/(TP+FP)) . or F1 = 2(PR/(P+R)).  especially for non standard metrics like kappa or hyperparms like cp (minimum information gain required for a plot)
 
 
-## Case Study 12
+## Case Study 12 - Neural Network parameter optimization with Neural Networks in Python's Keras and Tensorflow
 **Objective:** - In this case study, we experimented with some Neural Network architectures to solve a classification problem targettted to distinguish between a signal process which produces Higgs bosons and a background process which does not. The dataset is obtained from UCI machine learning website.
 
 **Feedback:** - Well done.  Would have like a little explantaion of your model being done, but you got the main point that loss/accuracy have stopped improving
 
 
-## Case Study 14
+## Case Study 14 - Complete Classification problem in Python
 **Objective:** - This Case Study focuses on a classification problem with the dataset provided to us by the business for the purposes of reducing overall false predictions, which costs the business an expense. The objective of this project is to identifying the optimal model and the features that impact the model most.
 
 **Feedback:** - Good use of correlated features to fill in missing values and eliminating correlated features.
